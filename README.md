@@ -42,7 +42,8 @@ truecaller-automation/
 
 ### Update the Appium configuration in the appium-config.js file to include your desired capabilities such as device name, platform version, and app details
 
-    ```bash
+    
+    ```javascript
     exports.config = {
         services: ['appium'],
         capabilities: [{
@@ -54,6 +55,8 @@ truecaller-automation/
         }]
     };
     ```
+
+    
 
 ## Running the Test
 
