@@ -1,0 +1,16 @@
+{
+    "name": "truecaller-automation",
+    "version": "1.0.0",
+    "description": "Automating the Truecaller login using Appium and BrowserStack",
+    "main": "index.js",
+    "scripts": {
+      "test": "node tests/truecallerLoginTest.js"
+    },
+    "dependencies": {
+      "appium": "^1.22.0",
+      "webdriverio": "^7.16.12",
+      "browserstack": "^1.7.0"
+    },
+    "author": "Pallavi Thanikonda",
+    "license": "ISC"
+  }

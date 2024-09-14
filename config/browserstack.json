@@ -1,0 +1,15 @@
+{  
+  "server": "hub-cloud.browserstack.com",  
+  "username": "BROWSERSTACK_USERNAME",  
+  "access_key": "BROWSERSTACK_ACCESS_KEY",  
+  "capabilities": {  
+    "project": "Truecaller Automation",  
+    "build": "Build 1.0",  
+    "name": "Truecaller Login Test",  
+    "app": "bs://<hashed app-id>",  
+    "device": "Samsung Galaxy S21",  
+    "os_version": "11.0",  
+    "browserstack.local": false,  
+    "browserstack.debug": true  
+  }  
+}  
