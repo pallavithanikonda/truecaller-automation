@@ -59,7 +59,7 @@ truecaller-automation/
 
 ### To run the automated test:
 
-    ```bash
+   ```bash
    npm test
    ```
 This command will trigger the test script and start the Truecaller login automation
