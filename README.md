@@ -36,7 +36,7 @@ truecaller-automation/
 
 ### Install the required dependencies:
 
-    ```bash
+   ```bash
    npm install
    ```
 
