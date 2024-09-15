@@ -8,7 +8,7 @@
     "name": "Truecaller Login Test",  
     "app": "bs://<hashed app-id>",  
     "device": "Samsung Galaxy S21",  
-    "os_version": "11.0",  
+    "os_version": "12.0",  
     "browserstack.local": false,  
     "browserstack.debug": true  
   }  
