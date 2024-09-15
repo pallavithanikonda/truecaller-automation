@@ -44,7 +44,7 @@ describe('Truecaller Login Test', () => {
       const getStartedButton = await getElement(driver, '//*[@text="GET STARTED"]');
       await getStartedButton.click();
 
-      // Page 3: Choose an account
+      // Page 3: Choose a google account
       const account = await getElement(driver, '//*[@text="pallavi.thanikonda@gmail.com"]');
       await account.click();
 
